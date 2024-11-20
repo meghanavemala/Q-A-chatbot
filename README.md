@@ -1,61 +1,63 @@
-Here’s a README file for your **Conversational Chatbot App**, with engaging emojis:
+Here’s a README file for your **Q&A Chatbot App**, with engaging emojis:
 
 ---
 
-# 💬 **Conversational Chatbot App** 🤖
+# 💬 **Q&A Chatbot App** 🤖
 
-Welcome to the **Conversational Chatbot App**! 🌟 This app lets you interact with an intelligent chatbot powered by **Cohere AI**. Whether you need answers to your questions, guidance on a topic, or just want to have a friendly conversation, this app is here to assist you! 🧠✨
+Welcome to the **Q&A Chatbot App**! 🚀 This app is designed to answer your questions quickly and accurately using the power of **Cohere AI**. Whether you need help with a specific topic or are simply curious about something, this app is your go-to conversational assistant! 🌟💡
 
 ---
 
 ## 🌐 **Link to the App**
 
-Access the app here:  
-[Conversational Chatbot App](https://conversational-chatbot-using-cohere.streamlit.app/) 🌍
+Check out the app here:  
+[Q&A Chatbot App](https://q-a-chatbot-using-cohere.streamlit.app/) 🌍
 
 ---
 
 ## 📋 **How It Works** 🧑‍💻
 
-1. **Enter Your Question**: 📝  
-   Type your query or start a conversation by entering a question in the input box.
+1. **Type Your Question**:  
+   Enter your question or query into the input box. 📝  
 
-2. **Ask the Question**: ⚡  
-   Hit the **"Ask the Question"** button to send your input to the chatbot.
+2. **Ask the Chatbot**:  
+   Hit the **"Ask the Question"** button to send your input. ⚡  
 
-3. **Get the Response**: 💬  
-   The chatbot will generate a response using **Cohere AI**, providing accurate and thoughtful answers to your questions. 🤔
+3. **Receive the Answer**:  
+   The chatbot, powered by **Cohere AI**, will generate a precise and insightful response. 💬✨  
 
-4. **Continue the Conversation**: 🔄  
-   Keep asking questions or chatting about your topic, and the chatbot will keep responding!
+4. **Continue the Conversation**:  
+   Feel free to ask follow-up questions or explore new topics! 🔄  
 
 ---
 
 ## 🧠 **Technology Behind the App**
 
-The **Conversational Chatbot App** is powered by the **Cohere API**, which uses advanced natural language processing (NLP) models to understand and respond to user inputs. The app is built with **Streamlit** to provide a simple and intuitive interface. 🤖✨
+The **Q&A Chatbot App** leverages the **Cohere API**, which utilizes advanced natural language processing (NLP) models to understand and answer questions. The app is built with **Streamlit**, offering a clean and interactive user experience. 🤖🛠️
 
 ---
 
 ## 🛠 **How to Run the App Locally**
 
-1. **Clone this Repository**:  
+1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/your-repository.git
    cd your-repository
    ```
 
 2. **Install Dependencies**:  
-   Ensure Python 3.7+ is installed. Then, install the required packages:  
+   Ensure Python 3.7+ is installed. Install the required libraries using:  
    ```bash
    pip install -r requirements.txt
    ```
 
 3. **Set Up API Key**:  
-   Obtain your API key from [Cohere](https://cohere.ai/) and set it in the code or use environment variables to manage it securely.
+   Get your API key from [Cohere](https://cohere.ai/) and add it to the code or configure it using environment variables.
 
 4. **Run the App**:  
-   Launch the app using Streamlit:  
+   Start the app with Streamlit:  
    ```bash
    streamlit run app.py
    ```
+
+---
